@@ -1,2 +1,0 @@
-# bt
-Created with CodeSandbox
